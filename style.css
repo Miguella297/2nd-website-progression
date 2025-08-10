@@ -1,0 +1,26 @@
+body.first_page {
+    background: red;
+}
+body.second_page {background-color: beige;
+}
+
+body {
+    min-height: 100vh;
+}
+
+h1 {
+    color:rgb(0, 255, 51) ;
+}
+body.third_page {background-color: rgb(34, 184, 134) ;
+}
+
+footer.bottom {
+    position: absolute;
+    display: block;
+    
+    bottom: 0;
+    font-size: large;
+}
+io {
+    color: brown;
+}
